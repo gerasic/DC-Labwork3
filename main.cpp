@@ -13,6 +13,7 @@ int main() {
     long a, b;
     cin >> a >> b;
     cout << summary(a, b) << endl;
+    cout << multiply(a, b) << endl;
 
     return 0
 }
