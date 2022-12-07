@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int summary(int a, int b) {
+long summary(long a, long b) {
     return a + b;
 }
 
 int main() {
-    int a, b;
+    long a, b;
     cin >> a >> b;
     cout << summary << endl;
 
