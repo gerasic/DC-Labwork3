@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int multiply(int a, int b) {
+long multiply(long a, long b) {
     return a * b;
 }
 
